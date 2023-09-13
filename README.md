@@ -1,18 +1,18 @@
 <h2>👋 Hello, I’m Lindani</h2>
+<p><b>I am a self taught Web developer and Graphic designer.</b></p>
 <hr>
-<h4>I’m interested in:</h4>
-<ul>
-  <li>Web development</li>
-  <li>Graphic Design<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="15px"/> </a></li>
-</ul>
+<h4>I’m skilled in:</h4>
+<span>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="35px"/>
+</span>
+<span></span>
+<span></span>
 
 <h4>I’m currently learning:</h4>
-<span></span>
-<span></span>
 <span>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" />
 </span>
-<span><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 </span>
 <span></span>
 
